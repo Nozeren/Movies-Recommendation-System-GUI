@@ -11,10 +11,10 @@ The program recommends movies based in the user preferences movies, category.
 * PyQt5/QtDesigner
 
 # Credits
-George Rosa-Acosta
-Margarida Jervis
-Nelson Rabasquinho
-Ugo Gallo
+* George Rosa-Acosta
+* Margarida Jervis
+* Nelson Rabasquinho
+* Ugo Gallo
 
 
 
