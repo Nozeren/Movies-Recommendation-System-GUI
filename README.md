@@ -1,6 +1,6 @@
 # Movies-Recommendation-System-GUI
 The program recommends movies based in the user preferences movies, category.
-![GUI](./pics/movies recommendation system.png)
+![GUI](Movies-Recommendation-System-GUI/pics/movies recommendation system.png)
 
 # Build with
 * Pandas
